@@ -1,0 +1,3 @@
+module load matlab
+matlab -r "findMissingBinPred('/Users/mtlash/Long_ARIC/visit1over.mat','/Users/mtlash/Long_ARIC/visit2original.mat',120,96,'/Users/mtlash/Long_ARIC/estStat/bin/')"
+

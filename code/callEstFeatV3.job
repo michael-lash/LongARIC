@@ -1,0 +1,3 @@
+module load matlab
+matlab -r "estFeatV3('/Users/mtlash/Long_ARIC/visit1over.mat','/Users/mtlash/Long_ARIC/visit3original.mat','/Users/mtlash/Long_ARIC/visit3EST.mat')"
+

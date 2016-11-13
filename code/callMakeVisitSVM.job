@@ -1,0 +1,4 @@
+module load matlab
+matlab -r "makeVisitSVM('/Users/mtlash/Long_ARIC/visit1over.mat',1000,200,2,10,50,50,'/Users/mtlash/Long_ARIC/visit1Norm.mat')"
+#matlab -r "makeVisitSVM('/Users/mtlash/Long_ARIC/visit2EST.mat',2,5,1000,100,50,50,'/Users/mtlash/Long_ARIC/visit2Norm.mat')"
+#matlab -r "makeVisitSVM('/Users/mtlash/Long_ARIC/visit3EST.mat',20,20,500,100,50,50,'/Users/mtlash/Long_ARIC/visit3Norm.mat')"
