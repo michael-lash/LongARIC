@@ -1,5 +1,4 @@
 # LongARIC -- Deriving Longitudinal Datasets from ARIC Study DAta
-Inverse Classification In Longitudinal Studies  
 
 _If using this code, please cite:_ **Michael T. Lash** and _W. Nick Street_, "Realistic risk-mitigating recommendations via inverse classification"
 
