@@ -3,7 +3,7 @@ Inverse Classification In Longitudinal Studies
 
 _If using this code, please cite:_ **Michael T. Lash** and _W. Nick Street_, "Realistic risk-mitigating recommendations via inverse classification"
 
-The paper can be found [here]("http://michaeltlash.com/papers/risk_ic.pdf") and is currently under review.
+The paper can be found [here](http://michaeltlash.com/papers/risk_ic.pdf) and is currently under review.
 
 ### Generating initial visit data files (Step 1)  
 Run ./deriveARICVisitData.py from the command line. You should be using Python 2.X. You can using the file /data/ids_only.csv as the input and specify your own output csv file.  **You _must_ use ARIC data acquired from BioLINCC for this to work**. The directory flag should be the resulting directory after downloading and unzipping the BioLINCC-acquired ARIC data.  
